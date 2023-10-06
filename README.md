@@ -1,6 +1,17 @@
 - 👋 Hi, I’m @MARSHALLSROR
 - 👀 I’m interested in Programming and tech 
-- 🌱 I’m currently learning About career of data engineer by Google cloud I'm a fast learner and love to test my learning on projects 
+- 🌱 I’m currently learning About career of data engineer by Google cloud I'm a fast learner and love to test my learning on projects. 
+- ❤️ I finished Data Analysis specialization on coursera contains 8 courses and Data Engineer track on DataCamp contains 17 courses and A project.
+- 💪 Skills: 
+ -- Analytical Thinking
+ -- SQL
+ -- R language
+ -- Python
+ -- Reporting
+ -- Data visualization
+ -- Data Cleaning
+ -- Problem Solving
+
 - 📫 How to reach me on 
 
 whatsapp: +1554509490
