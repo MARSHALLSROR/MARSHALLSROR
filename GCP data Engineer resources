@@ -1,0 +1,64 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ 
+                                                        This resources for preparing to the professional data engineer certificate exam.
+
+ -- cheatsheets : 
+   https://www.testpreptraining.com/blog/google-professional-data-engineer-gcp-cheat-sheet/
+   https://github.com/ml874/Data-Engineering-on-GCP-Cheatsheet/blob/master/data_engineering_on_GCP.pdf
+   https://www.kdnuggets.com/2022/12/7-essential-cheat-sheets-data-engineering.html
+   https://cloud.google.com/blog/products/gcp/5-google-cloud-product-cheat-sheets-2021
+   https://github.com/priyankavergadia/google-cloud-4-words
+
+ -- Cloud data fusion : 
+   https://cloud.google.com/data-fusion/docs/reference/rest?_ga=2.156710707.-98327548.1694682767
+   https://cloud.google.com/data-fusion/docs/how-to/create-instance
+
+ -- Gcloud : 
+   https://cloud.google.com/sdk/gcloud
+
+ -- Percision and recall : 
+   https://developers.google.com/machine-learning/crash-course/classification/precision-and-recall
+
+ -- Vertex AI : 
+   https://github.com/GoogleCloudPlatform/vertex-ai-samples/tree/main/notebooks/official
+ 
+ -- Apache Airflow : 
+   https://airflow.apache.org/docs/apache-airflow/stable/core-concepts/index.html
+   https://airflow.apache.org/docs/apache-airflow-providers/operators-and-hooks-ref/index.html
+   https://airflow.apache.org/docs/apache-airflow/stable/cli-and-env-variables-ref.html#variables
+   
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                        Additional resources 
+  
+ -- Cloud Monitoring : 
+   https://cloud.google.com/monitoring/api/metrics_gcp
+ -- Speach to text :
+   https://cloud.google.com/speech-to-text/docs/reference/rest/v1/RecognitionConfig
+ -- BigQuery Rules : 
+   https://cloud.google.com/iam/docs/understanding-roles#bigquery-roles
+ -- Infotypes : 
+   https://cloud.google.com/dlp/docs/infotypes-reference
+ -- Cloud External key manager (EKM) : 
+   https://cloud.google.com/kms/docs/ekm
+ -- Connectors : 
+   https://cloud.google.com/workflows/docs/connectors
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+                                                                         More Advanced resources For additional reading  
+
+ -- Machine learning and deep learning 
+   
+  - Auto ML : 
+   https://www.fast.ai/posts/2018-07-23-auto-ml-3.html
+  - ML Glossary :  
+   https://developers.google.com/machine-learning/glossary#neural_network
+  - Vertex AI : 
+   https://cloud.google.com/vertex-ai#section-5
+
+ -- MLOps 
+
+  - Continuous integration : 
+   https://en.wikipedia.org/wiki/Continuous_integration
+  - Continuous Delivery : 
+   https://en.wikipedia.org/wiki/Continuous_delivery
+  - Continuous delivery and automation pipelines in machine learning : 
+   https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning#mlops_level_1_ml_pipeline_automation
