@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @MARSHALLSROR
+- 👋 Hi, My name is Abdo Sorour
+- I'm a Co-Founder of sorourbros.com and I like to show the world my ideas along with helping them improve their hospitality business. 
 - 👀 I’m interested in Programming and tech 
-- 🌱 I’m currently learning About career of data engineer by Google cloud I'm a fast learner and love to test my learning on projects. 
-- ❤️ I finished Data Analysis specialization on coursera contains 8 courses and Data Engineer track on DataCamp contains 17 courses and A project.
-- :medal_military:	 Portofolio : https://marshallsror.my.canva.site/abdelrahmansror-portofolio
+- 🌱 I’m a certified professional data engineer on Google Cloud.
 - 💪 Skills: 
  -- Analytical Thinking
  -- SQL
@@ -17,7 +16,7 @@
 
 whatsapp: +201147575374
 
-Linkedin: https://www.linkedin.com/in/abdelrahman-sror?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+Linkedin: https://www.linkedin.com/in/abdelrahman-sror/
 
 
 <!---
