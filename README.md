@@ -4,13 +4,15 @@
 - 🌱 I’m a certified professional data engineer on Google Cloud.
 - 💪 Skills: 
  -- Analytical Thinking
- -- SQL
- -- R language
- -- Python
- -- Reporting
  -- Data visualization
  -- Data Cleaning
  -- Problem Solving
+
+ - Technical Skills:
+ -- In Google Cloud, I had a chance to learn about: Dataproc, Dataflow, Apache Airflow, Cloud Composer, Google Datalab, App Engine, Compute Engine, Pubsub (for delivery of streaming data), BigQuery, Cloud SQL, along with machine learning on the platform.
+
+ - Other Skills:
+ -- Python, R language, SQL.
 
 - 📫 How to reach me on 
 
